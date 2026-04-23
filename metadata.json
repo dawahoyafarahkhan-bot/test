@@ -1,0 +1,6 @@
+{
+  "name": "EnergyLink 能源中台",
+  "description": "基于能源互联网业务中台PaaS平台设计，集成MaaS模型服务、业务能力原子化、数据产品化及通用业务模块的综合管理系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["能源互联网", "中台架构", "MaaS", "数据资产管理"]
+}
